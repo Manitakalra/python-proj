@@ -82,7 +82,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 ### Banking Facilities
 
-- Provides various banking functionalities like balance enquiry, funds transfer, and viewing transaction history.
+- Provides various banking functionalities like balance enquiry, funds transfer, and viewing transaction history and making a bank account.
 - Implements object-oriented programming (OOP) for better code management and scalability.
 - Each account has a unique account number.
 
